@@ -9,7 +9,7 @@ function App() {
       <hr/>
       <Child name="Usama Ali" degree="Ghraphic Designing" />
       <hr/>
-      <Child name="Aqsa Jabeen " degree="WordPress" />
+      <Child name="Uzair Abbasi " degree="WordPress" />
     </div>
   );
 }
