@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.div-1{
+  align-self: center;
+  margin: 50px;
+}
+
+.p-01,.h1-01{
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
